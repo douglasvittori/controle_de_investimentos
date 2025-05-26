@@ -8,7 +8,6 @@ Este projeto tem como objetivo auxiliar no **controle e alocação de investimen
 
 - Estruturar uma ferramenta prática para controle de FIIs
 - Orientar alocação de investimentos conforme o **perfil de investidor** (Conservador, Moderado, Agressivo)
-- Criar uma base para futuras análises em **Power BI** ou automações com **Python**
 
 ## 📊 Funcionalidades
 
